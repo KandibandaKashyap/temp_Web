@@ -1,24 +1,24 @@
 {
-    "id": "0DC519E6",
-    "path": "E:/Masters/sem1/R_stat515/temp_Web/temp_Web/Intro.qmd",
-    "project_path": "Intro.qmd",
-    "type": "quarto_markdown",
-    "hash": "0",
+    "id": "FAF5FD8B",
+    "path": "E:/Masters/sem1/R_stat515/temp_Web/temp_Web/_quarto.yml",
+    "project_path": "_quarto.yml",
+    "type": "yaml",
+    "hash": "509289600",
     "contents": "",
     "dirty": false,
-    "created": 1727297895547.0,
+    "created": 1727297891211.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
     },
     "folds": "",
-    "lastKnownWriteTime": 1726095889,
+    "lastKnownWriteTime": 1727297204,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1726095889,
+    "last_content_update": 1727297204,
     "read_only": false,
     "read_only_alternatives": []
 }
